@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"css",
+				"css  (function)"
+			],
+			[
+				"pos",
+				"position  (function)"
+			],
+			[
+				"app",
+				"append  (function)"
+			],
+			[
+				"each",
+				"each  (function)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"mu",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/snorpey/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Base File.sublime-settings",
+		"/Users/snorpey/Sites/Projekte/stats/javascript/event-system.js",
+		"/Users/snorpey/Sites/Projekte/stats/index.html",
+		"/Users/snorpey/Sites/Projekte/stats/css/stylesheet.css",
+		"/Users/snorpey/Sites/Projekte/stats/javascript/main.js",
+		"/Users/snorpey/Sites/Projekte/stats/images/svg/controller.svg",
+		"/Users/snorpey/Sites/Projekte/stats/javascript/background-system.js",
+		"/Users/snorpey/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/snorpey/Sites/Projekte/stats/javascript/targets/gametitles.js",
+		"/Users/snorpey/Sites/Projekte/stats/.gitignore",
+		"/Users/snorpey/Sites/Projekte/stats/images/nav.png"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/stylesheet.css",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"css/stylesheet.css"
+			],
+			[
+				"nav",
+				"javascript/navigation.js"
+			],
+			[
+				"clo",
+				"javascript/targets/clock.js"
+			],
+			[
+				"ma",
+				"javascript/main.js"
+			],
+			[
+				"ba",
+				"javascript/background-system.js"
+			],
+			[
+				"",
+				"javascript/background-system.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
