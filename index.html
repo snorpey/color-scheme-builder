@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Color scheme generator</title>
+		<link rel="stylesheet" href="css/stylesheet.css" />
+		<link rel="stylesheet" href="css/jquery.colorpicker.css" />
+	</head>
+	<body>
+		<header>
+			<h1>Color scheme generator</h1>
+			<p>
+				You can use this editor to create your own color scheme for
+				the <a href="http://www.steamdev.com/snippet/">jQuery snippet</a>
+				synthax highighter plugin.
+			</p>
+		</header>
+		<div class="valuelist" data-component="valuelist">
+		</div>
+		<div class="code" data-component="code">
+			<h1>JavaScript</h1>
+			<pre lang="javascript">
+$( document ).ready( runThis );
+
+function runThis()
+{
+	// this script is for demoing purposes therefore and makes no sense
+	
+	var current_index = 2;
+	var list = [ 'lorem', 'ipsum', 'dolor', 'sit', 'amet' ];
+	var text = 'lorem ipsum dolor';
+	
+	for ( var i = 0; i &lt; list.length; i++ )
+	{
+		if (
+			i > current_index ||
+			i > text.split( ' ' ).length
+		)
+		{
+			text += ' ' + list[i];
+		}
+	}
+	
+	alert( text );
+}				
+			</pre>
+		</div>
+		<div class="result" data-component="result">
+			<h1>save this color scheme</h1>
+			<input type="text" id="css-scope" placeholder="enter color scheme name" />
+			<textarea></textarea>
+			<label for="minify">
+				<input type="checkbox" id="minify" /> minify
+			</label>
+		</div>
+	</body>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="javascript/libraries/chainsaw.js"></script>
+</html>
