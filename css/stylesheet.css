@@ -1,4 +1,4 @@
-*
+Ï*
 {
 	margin: 0;
 	padding: 0;
@@ -241,6 +241,7 @@ h1
 	overflow: auto;
 	position: relative;
 	background: #efefef;
+	margin-top: 30px;
 }
 
 .snippet-wrap pre.snippet-textonly
@@ -276,7 +277,6 @@ h1
 
 .snippet-wrap .snippet-num
 {
-	margin-top: 30px;
 	padding: 10px 10px 10px 40px;
 }
 

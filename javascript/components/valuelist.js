@@ -2,7 +2,7 @@ function valuelist( $element )
 {
 	var _self = this;
 	var _element = $element;
-	var _required_scripts = [ 'javascript/conditional/jquery-ui-1.8.16.custom.min.js', 'javascript/conditional/jquery.colorpicker.js' ];
+	var _required_scripts = [ 'javascript/conditional/jquery-ui.js', 'javascript/conditional/jquery.colorpicker.js' ];
 	var _message_types = ['get_results'];
 	
 	var _properties = [ 
@@ -60,11 +60,9 @@ function valuelist( $element )
 			
 			if ( _properties[i] !== 'background' )
 			{
-			
-			html +=		'<a href="#bold" class="text-button text-bold">b</a>';
-			html +=		'<a href="#italic" class="text-button text-italic">i</a>';
-			html +=		'<a href="#underline" class="text-button text-underline">u</a>';
-			
+				html +=		'<a href="#bold" class="text-button text-bold">b</a>';
+				html +=		'<a href="#italic" class="text-button text-italic">i</a>';
+				html +=		'<a href="#underline" class="text-button text-underline">u</a>';
 			}
 			
 			html +=	'</li>';
