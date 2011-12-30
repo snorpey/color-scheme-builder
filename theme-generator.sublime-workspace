@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"scri",
+				"script>  (element)"
+			],
+			[
+				"_pr",
+				"_properties  (variable)"
+			],
+			[
+				"for",
+				"for: for (…) {…}"
+			],
+			[
+				"key",
+				"key  (variable)"
+			],
+			[
+				"fun",
+				"fun: Function"
+			],
+			[
+				"div",
+				"div>  (element)"
+			],
+			[
+				"he",
+				"header>  (element)"
+			],
+			[
 				"css",
 				"css  (function)"
 			],
@@ -24,11 +52,35 @@
 	"buffers":
 	[
 		{
-			"file": "css/stylesheet.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 30,
+				"buffer_size": 1475,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javascript/components/valuelist.js",
+			"settings":
+			{
+				"buffer_size": 4127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "javascript/conditional/jquery.colorpicker.js",
+			"settings":
+			{
+				"buffer_size": 47966,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/jquery.colorpicker.css",
+			"settings":
+			{
+				"buffer_size": 3023,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -68,6 +120,9 @@
 	},
 	"file_history":
 	[
+		"/Users/snorpey/Sites/Projekte/theme-generator/css/stylesheet.css",
+		"/Users/snorpey/Sites/Projekte/chainsaw/readme.md",
+		"/Users/snorpey/Sites/Projekte/theme-generator/javascript/libraries/chainsaw.js",
 		"/Users/snorpey/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Base File.sublime-settings",
 		"/Users/snorpey/Sites/Projekte/stats/javascript/event-system.js",
 		"/Users/snorpey/Sites/Projekte/stats/index.html",
@@ -86,9 +141,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 91.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -96,6 +152,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"../images"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -103,6 +160,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"../images/"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -118,18 +176,99 @@
 			[
 				{
 					"buffer": 0,
-					"file": "css/stylesheet.css",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 30,
+						"buffer_size": 1475,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								28,
-								28
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "javascript/components/valuelist.js",
+					"settings":
+					{
+						"buffer_size": 4127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "javascript/conditional/jquery.colorpicker.js",
+					"settings":
+					{
+						"buffer_size": 47966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/jquery.colorpicker.css",
+					"settings":
+					{
+						"buffer_size": 3023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1414,
+								1414
 							]
 						],
 						"settings":
@@ -187,6 +326,10 @@
 		"selected_items":
 		[
 			[
+				"v",
+				"javascript/components/valuelist.js"
+			],
+			[
 				"css",
 				"css/stylesheet.css"
 			],
@@ -225,6 +368,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 209.0,
+	"side_bar_width": 248.0,
 	"status_bar_visible": true
 }
