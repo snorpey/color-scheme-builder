@@ -1,12 +1,21 @@
-#color scheme generator
+color scheme generator
+----------------------
 
-This script allows to build color themes for code highlighters and shows a live preview . As of now, it only works for the [jQuery snippet](http://www.steamdev.com/snippet/) Plugin.
+this script allows to build color themes for code highlighters and shows a live preview . as of now, it only works for the [jquery snippet](http://www.steamdev.com/snippet/) plugin.
 
-It uses [jQuery](http://jquery.com), [jQuery UI](http://jqueryui.com/) and [vanderlee](https://github.com/vanderlee)s [color picker](http://vanderlee.github.com/colorpicker/) plugin.
+it uses [jquery](http://jquery.com), [jquery ui](http://jqueryui.com/) and [vanderlee](https://github.com/vanderlee)s [color picker](http://vanderlee.github.com/colorpicker/) plugin.
 
-Plans for future releases:
+you can find a much better color scheme generator for text editors at [https://tmtheme-editor.herokuapp.com](https://tmtheme-editor.herokuapp.com/#/theme/Monokai).
 
-- import existing themes
-- export themes for editors such as Eclipse, TextMate and Sublime Text
-- add support for for more code highlighting plugins
-- add preview code for more languages
+thank you for checking out this code!
+
+third party code
+----------------
+- [jquery](http://jquery.com), mit license
+- [jquery ui](http://jqueryui.com), mit license
+- [jquery synthax highlighter](http://steamdev.com/snippet), mit license
+- [jquery colorpicker](https://vanderlee.github.io/colorpicker/), mit license
+
+license
+-------
+[mit](LICENSE)
